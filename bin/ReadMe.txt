@@ -1,0 +1,2 @@
+
+For this program, compile the file and run the executable. To begin the game, press start. Press shuffle to shuffle the board. I did however leave it initially unshuffled to be able to test out the solve function in an easir way, that way you could move a few tiles and have it find a solution in a reasonable time. All the functions work. Also, every time the puzzle is solved, you must press start to begin the game again.
